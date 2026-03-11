@@ -27,6 +27,8 @@ public class UseCase1HotelBookingApp {
         System.out.println("             Version 1.0              ");
         System.out.println("======================================");
 
+
+
         System.out.println("Welcome to the Hotel Booking System!");
         System.out.println("Application started successfully.");
     }
